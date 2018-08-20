@@ -13,6 +13,7 @@ RUN apt-get update && apt-get install -y \
     libjpeg62-turbo-dev \
     libmcrypt-dev \
     zlib1g-dev \
+    imagemagick \
     libmagickwand-dev --no-install-recommends \
     procps
 
